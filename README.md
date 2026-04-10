@@ -1,4 +1,4 @@
-![logo](https://github.com/riteshhonule/riteshhonule/blob/main/profile%20banner.png)
+![logo](https://github.com/riteshhonule/riteshhonule/blob/main/Gemini_Generated_Image_oxjw3boxjw3boxjw.png)
 <h1 align="center">Hi 👋, I'm Ritesh Honule</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
