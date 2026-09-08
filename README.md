@@ -171,19 +171,29 @@ Rani Parvati Devi College, Belagavi
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshhonule&show_icons=true&locale=en&layout=compact" alt="riteshhonule" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=riteshhonule&show_icons=true&theme=dark&hide_border=true"
+    alt="Ritesh Honule GitHub Stats"
+  />
 </p>
 
-<br><br><br><br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshhonule&show_icons=true&locale=en" alt="riteshhonule" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshhonule&layout=compact&theme=dark&hide_border=true"
+    alt="Ritesh Honule Top Languages"
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshhonule" alt="riteshhonule" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=riteshhonule&theme=dark&hide_border=true"
+    alt="Ritesh Honule GitHub Streak"
+  />
 </p>
+
 
 ## 🤝 Connect With Me
 
