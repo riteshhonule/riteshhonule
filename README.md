@@ -171,8 +171,6 @@ Rani Parvati Devi College, Belagavi
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=riteshhonule&show_icons=true&theme=dark&hide_border=true"
